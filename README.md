@@ -1,1 +1,1 @@
-# Bc-Game-BotScript
+### Bc.Game BotScript
