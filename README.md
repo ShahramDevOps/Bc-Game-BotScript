@@ -1,5 +1,8 @@
 ### Bc.Game BotScript - Crash Game
 
+[Get License](https://t.me/DevOpsWebSite)
+
+
 ```
 //Start Bet After 3 wins => next Red...
 var startBetNextRed = 3;    //Payout 1.98x
