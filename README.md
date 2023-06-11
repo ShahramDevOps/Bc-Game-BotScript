@@ -1,10 +1,12 @@
 ### Bc.Game BotScript - Crash Game
 
+
+##### You need to get the license to run the bot
 [Get License](https://t.me/DevOpsWebSite)
 
 ---
 
-#### Go to the Bc.game website
+#### Go to the [Bc.game](https://bc.game/) website
 
 #### 1- Open the explosion game
 
