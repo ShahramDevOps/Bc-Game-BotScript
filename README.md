@@ -2,6 +2,17 @@
 
 [Get License](https://t.me/DevOpsWebSite)
 
+---
+
+#### Go to the Bc.game website
+
+#### 1- Open the explosion game
+
+#### 2- Press the F12 key
+
+#### 3- Enter the Console
+
+#### 4- Copy the script and paste it in Console
 
 ```
 
